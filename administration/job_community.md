@@ -14,6 +14,8 @@ The priorities of the foundation are set jointly by the community and the sponso
 The Consortium is funded thanks to a sponsorship program managed by the Inria Foundation. 
 You will be in charge of contributing to the development of scikit-learn and to the animation of its community.
 
+The position is localized in Inria Saclay, France.
+
 ### Activities
 -	Provide support to users through the community tools.
 -	Help in the follow-up of the scikit-learn issue tracker on github
