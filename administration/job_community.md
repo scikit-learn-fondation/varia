@@ -11,9 +11,9 @@ Experience : 1 - 12 years
 You will join the development team of the scikit-learn Consortium (https://scikit-learn.fondation-inria.fr).
 The Consortium employs central contributors to the scikit-learn library, to support the scikit-learn developer community.
 The priorities of the foundation are set jointly by the community and the sponsors.
-The Consortium is funded thanks to a sponsorship program managed by the Inria Foundation, and funds this position. This position focuses on the communication and organization of the scikit-learn consortium and wider open-source community.
+The Consortium is funded thanks to a sponsorship program managed by the Inria Foundation, and funds this position. This position focuses on the communication and organization of the scikit-learn consortium and wider open-source community: development management, and user experience.
 
-You will be in charge of contributing to the animation of the scikit-learn community and to the development the library, with a possible focus on user experience and documentation.
+You will be in charge of contributing to the animation of the scikit-learn community and to the development the library and its documentation.
 
 The position is localized in Inria Saclay, France.
 
