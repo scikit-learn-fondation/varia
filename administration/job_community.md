@@ -26,6 +26,7 @@ The position is localized in Inria Saclay, France.
 -	Organize the Consortium development sprints and events.
 -	Promote the activities and the members of the Consortium via the website and the Twitter feed.
 
+
 ### Skills
 
 -	A keen interest for open-source projects and communities
