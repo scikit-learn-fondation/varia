@@ -1,4 +1,4 @@
-# Job profile: Open-source Engineer for the scikit-learn Consortium 
+# Job profile: Open-source development at the scikit-learn Consortium 
 *(open source and community developement)*
 
 Type of contract : CDD (temporary position, full time), 2 years renewable
