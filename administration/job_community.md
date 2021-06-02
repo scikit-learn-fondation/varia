@@ -29,4 +29,5 @@ The position is localized in Inria Saclay, France.
 -	Knowledge of statistical data analysis.
 -	Excellent communication skills to foster a team work environment.
 -	Knowledge of website and social network management.
+-	A keen interest for open-source projects and communities
 
