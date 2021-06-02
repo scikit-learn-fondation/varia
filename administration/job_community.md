@@ -12,7 +12,7 @@ You will join the development team of the scikit-learn Consortium (https://sciki
 The Consortium employs central contributors to the scikit-learn library, to support the scikit-learn developer community.
 The priorities of the foundation are set jointly by the community and the sponsors.
 The Consortium is funded thanks to a sponsorship program managed by the Inria Foundation. 
-You will be in charge of contributing to the development of scikit-learn and to the animation of its community.
+You will be in charge of contributing to the development of scikit-learn (eg via code or documentation) and to the animation of its community.
 
 The position is localized in Inria Saclay, France.
 
