@@ -1,7 +1,7 @@
 # Job profile: Engineer for the scikit-learn Consortium 
 *(software development and community managing)*
 
-Type of contract : CDD (temporary position, full time)
+Type of contract : CDD (temporary position, full time), 2 years renewable
 
 Qualifications : Master - Bac + 5 or equivalent
 
@@ -17,7 +17,7 @@ You will be in charge of contributing to the development of scikit-learn and to 
 ### Activities
 -	Provide support to users through the community tools.
 -	Help in the follow-up of the scikit-learn issue tracker on github
--	Carry out developments to improve the scikit-learn library documentation.
+-	Carry out developments to improve the scikit-learn library code and documentation.
 -	Follow-up community sprints and events.
 -	Organize the Consortium development sprints and events.
 -	Promote the activities and the members of the Consortium via the website and the Twitter feed.
