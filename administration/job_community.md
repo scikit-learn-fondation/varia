@@ -25,9 +25,13 @@ The position is localized in Inria Saclay, France.
 -	Promote the activities and the members of the Consortium via the website and the Twitter feed.
 
 ### Skills
+
+
 -	Good knowledge of the scientific Python stack.
--	Knowledge of statistical data analysis.
--	Excellent communication skills to foster a team work environment.
--	Knowledge of website and social network management.
+-	Excellent communication skills to foster team work.
 -	A keen interest for open-source projects and communities
+-	Knowledge of statistical data analysis.
+-	Interest in web and social network communication.
+
+We are open to junior or senior profiles.
 
