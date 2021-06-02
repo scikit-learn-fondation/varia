@@ -8,12 +8,13 @@ Qualifications : Master - Bac + 5 or equivalent
 Experience : 1 - 12 years
 
 ### Context
-You will join the development team of the scikit-learn Consortium (https://scikit-learn.fondation-inria.fr).
-The Consortium employs central contributors to the scikit-learn library, to support the scikit-learn developer community.
-The priorities of the foundation are set jointly by the community and the sponsors.
-The Consortium is funded thanks to a sponsorship program managed by the Inria Foundation, and funds this position. This position focuses on the communication and organization of the scikit-learn consortium and wider open-source community: development management, and user experience.
 
-You will be in charge of contributing to the animation of the scikit-learn community and to the development the library and its documentation.
+You will join the development team of the scikit-learn Consortium (https://scikit-learn.fondation-inria.fr).
+The goal of the Consortium is to foster the growth of the scikit-learn library. It employs central scikit-learn contributors, to support the scikit-learn developer community. It is funded by industry sponsors.
+
+The proposed position focuses on the communication and community dynamics for the scikit-learn consortium and wider open-source community: development management, advocacy, and user experience.
+
+You will be in charge 1) contributing to the animation of the scikit-learn consortium and wider community and 2) improving the library and its documentation.
 
 The position is localized in Inria Saclay, France.
 
@@ -27,12 +28,11 @@ The position is localized in Inria Saclay, France.
 
 ### Skills
 
-
--	Good knowledge of the scientific Python stack.
--	Excellent communication skills to foster team work.
 -	A keen interest for open-source projects and communities
+-	Excellent communication skills to foster team work.
+-	Knowledge of the scientific Python stack.
 -	Knowledge of statistical data analysis.
 -	Interest in web and social network communication.
 
-We are open to junior or senior profiles.
+We are open to junior or senior profiles. While the position as described above has mutiple roles requiring various expertise, we encourage candidates with strong interests and a will to acquire complementary skills with the team, for instance acquiring knowledge of data processing or scientific engineering. 
 
