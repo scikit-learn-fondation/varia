@@ -17,7 +17,7 @@ You will be in charge of contributing to the development of scikit-learn and to 
 The position is localized in Inria Saclay, France.
 
 ### Activities
--	Provide support to users through the community tools.
+-	Provide support to scikit-learn contributors through the community tools.
 -	Help in the follow-up of the scikit-learn issue tracker on github
 -	Carry out developments to improve the scikit-learn library code and documentation.
 -	Follow-up community sprints and events.
