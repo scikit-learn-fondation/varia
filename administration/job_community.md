@@ -40,3 +40,9 @@ Good to have, or willing to learn:
 
 We are open to junior or senior profiles. While the position as described above has mutiple roles requiring various expertise, we encourage candidates with strong interests and a will to acquire complementary skills with the team, for instance acquiring knowledge of data processing or scientific engineering. 
 
+
+### Internal:
+
+Hashtags for social networks: #OpenScience #pydata #MachineLearning 
+
+Keyword: "inclusive" 
