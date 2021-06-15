@@ -5,7 +5,7 @@ Type of contract : CDD (temporary position, full time), 2 years renewable
 
 Qualifications : Master - Bac + 5 or equivalent
 
-Experience : 1 - 12 years
+Experience : 1 - 12 years in research, industry and/or (open-source) software development
 
 ### Context
 
@@ -20,18 +20,18 @@ The position is localized in Inria Saclay, France.
 ### Activities
 
 -	Provide support to the wide community of scikit-learn contributors through the community tools.
--	Help in the follow-up of the scikit-learn issue tracker on github
+-	Help in the follow-up of the scikit-learn issue tracker on github: this includes reviewing and following up with Pull Requests from contributors, triaging Pull Request and Issues, participating in discussions in the mailing lists and on GitHub.
 -	Carry out developments to improve the scikit-learn library code and documentation.
--	Follow-up community sprints and events.
 -	Organize the Consortium development sprints and events.
+-	Follow-up community sprints and events.
 -	Promote the activities and the members of the Consortium via the website and the Twitter feed.
 
 
 ### Skills
 
 The ideal candidate must have:
--	A keen interest for open-source projects and communities
--	Excellent communication skills to foster team work.
+-	A keen interest for and/or experience with open-source projects and communities.
+-	Excellent communication skills to foster team work, especially writing.
 -	Knowledge of the scientific Python stack.
 
 Good to have, or willing to learn:
