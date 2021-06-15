@@ -9,7 +9,7 @@ Experience : 1 - 12 years
 
 ### Context
 
-Scikit-learn is one of the top-most leading machine learning tools. It has more than a million users wordwide, and is developped by an open community distributed throughout the world. The Scikit-learn consortium at Inria ((https://scikit-learn.fondation-inria.fr)) is funded by industry sponsors to foster the growth of the scikit-learn library. It employs central scikit-learn contributors, to support the scikit-learn developer community.
+Scikit-learn is one of the top-most leading machine learning tools. It has more than a million users wordwide, and is developped by an open community distributed throughout the world. The Scikit-learn consortium at Inria (https://scikit-learn.fondation-inria.fr) is funded by industry sponsors to foster the growth of the scikit-learn library. It employs central scikit-learn contributors, to support the scikit-learn developer community.
 
 You will join the development team of the scikit-learn consortium with a focus on the communication and community dynamics for the scikit-learn consortium and wider open-source community: development management, advocacy, and user experience.
 
@@ -18,7 +18,8 @@ You will be in charge 1) contributing to the animation of the scikit-learn conso
 The position is localized in Inria Saclay, France.
 
 ### Activities
--	Provide support to scikit-learn contributors through the community tools.
+
+-	Provide support to the wide community of scikit-learn contributors through the community tools.
 -	Help in the follow-up of the scikit-learn issue tracker on github
 -	Carry out developments to improve the scikit-learn library code and documentation.
 -	Follow-up community sprints and events.
