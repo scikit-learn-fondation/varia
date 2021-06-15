@@ -29,9 +29,12 @@ The position is localized in Inria Saclay, France.
 
 ### Skills
 
+The ideal candidate must have:
 -	A keen interest for open-source projects and communities
 -	Excellent communication skills to foster team work.
 -	Knowledge of the scientific Python stack.
+
+Good to have, or willing to learn:
 -	Knowledge of statistical data analysis.
 -	Interest in web and social network communication.
 
